@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gnanasekar R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="center" alt="Coding" width="1000" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdycXlwandpdXljNnFwMWNvdjc3a3o2ZHdnNml6NTc1czI1NGd2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnanasekarr&label=Profile%20views&color=0e75b6&style=flat" alt="gnanasekarr" /> </p>
 
