@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanasekarr" alt="gnanasekarr" /></a> </p>
 
-- 🔭 I’m currently working on **Expense tracker**
+
 
 - 🌱 I’m currently learning **Reactjs**
 
